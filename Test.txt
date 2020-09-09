@@ -1,2 +1,4 @@
 Hello! This is my first file.
-Editing a file to check..
+Editing a file to check.
+Checking diff command
+New line
